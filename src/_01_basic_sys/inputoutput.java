@@ -1,4 +1,4 @@
-package basic_sys;
+package _01_basic_sys;
 
 import java.util.Scanner;
 
