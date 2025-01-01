@@ -50,6 +50,7 @@ public class basic {
             {
                 this.name = name;
                 this.age = age;
+                //중요한 부분
             }
             String getName() {
                 return name;
