@@ -1,4 +1,6 @@
-package _05_Class._02_access_modifier_pack1;
+package _05_Class._02_access_modifier._pack1;
 
-public class A {
+class A
+{
+
 }
