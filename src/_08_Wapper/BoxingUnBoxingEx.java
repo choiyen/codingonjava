@@ -20,7 +20,7 @@ public class BoxingUnBoxingEx
         System.out.println(obj2.doubleValue());
 
 
-        //UnBoxing
+        //UnBoxing.
         ///- 포장 객체에서 기본 타입 값을 얻는 과정
         /// - 기본 타입 변수에 포장 객체가 대입될 떄 발생
         int value1 = obji;
