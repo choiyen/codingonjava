@@ -1,4 +1,4 @@
-package _05_Class._02_access_modifier.Practice;
+package _05_Class.Practice;
 
 public class Rectangle
 {
